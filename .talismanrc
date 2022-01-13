@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: 8.js
+  checksum: ccc2c0f2ff4b5e251c81fbdd1a0023a04591b353cdbca3ed983d8687a7a78058
+- filename: 13.js
+  checksum: 2f05e63fbfe2d5e477b04f332b975d317911dd483ac2578b5495960ff7b1be86
